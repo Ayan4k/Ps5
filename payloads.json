@@ -5,7 +5,11 @@
       "name": "PS5 Game Compressor",
       "filename": "game-compressor.elf",
       "url": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases/latest/download/game-compressor.elf",
-      "description": "Tool to compress and decompress PS5 games"
+      "description": "Tool to compress and decompress PS5 games",
+      "author": "juma-sayeh",
+      "version": "latest",
+      "category": "Tools",
+      "supportedFirmwares": ["*"]
     }
   ]
 }
